@@ -8,10 +8,11 @@
   
   <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thainamonteiro/BeTheHero">
-	
+  <img alt="Repository Size" src"https://img.shields.io/github/repo-size/thainamonteiro/BeTheHero">
   <a href="https://www.linkedin.com/in/thain%C3%A1-monteiro-0899a716a/">
     <img alt="Made by - Thainá Monteiro" src="https://img.shields.io/badge/Made%20By-Thain%C3%A1%20Monteiro-ff69b4">
   </a>
+  <img alt="License" src="https://img.shields.io/github/license/thainamonteiro/BeTheHero">
   </p>
 
   <h1 align="center">
