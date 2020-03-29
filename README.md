@@ -27,4 +27,36 @@
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+## :exclamation: Como Utilizar? 
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+
+From your command line:
+
+### Install API
+```bash
+# Clone this repository
+$ git clone https://github.com/thainamonteiro/BeTheHero.git
+
+# Go into the repository
+$ cd SemanaOmnistack11/backend
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex migrate:latest 
+
+# Run Seeds
+$ yarn seed
+
+# Run the API
+$ yarn dev
+```
+
+## :heavy_check_mark: Testes
+
+- Run `yarn test:server` at the root folder;
+
+
 
