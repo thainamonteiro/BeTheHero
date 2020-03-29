@@ -5,6 +5,14 @@
   <h4 align="center"> 
 	Conectando pessoas para ajudar ONGs 
   </h4>
+  
+  <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thainamonteiro/BeTheHero">
+	
+  <a href="https://www.linkedin.com/in/thain%C3%A1-monteiro-0899a716a/">
+    <img alt="Made by - Thainá Monteiro" src="https://img.shields.io/badge/Made%20By-Thain%C3%A1%20Monteiro-ff69b4">
+  </a>
+  </p>
 
   <h1 align="center">
   <img src="mobile/assets/mockup.png" width="500px" />
