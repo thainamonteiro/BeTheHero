@@ -3,12 +3,8 @@
   </h1>
   
   <h4 align="center"> 
-	Conectando pessoas para ajudar ONG's 
+	Conectando pessoas para ajudar ONGs 
   </h4>
-  
-  <p align="center">
-  App para ajudar ONGs criadas com ReactJS, React Native, Node.js, etc...
-  </p>
 
   <h1 align="center">
   <img src="mobile/assets/mockup.png" width="500px" />
@@ -21,3 +17,5 @@
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+
+
