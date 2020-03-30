@@ -44,7 +44,7 @@ From your command line:
 $ git clone https://github.com/thainamonteiro/BeTheHero.git
 
 # Go into the repository
-$ cd SemanaOmnistack11/backend
+$ cd BeTheHero/backend
 
 # Install dependencies
 $ yarn install
@@ -59,7 +59,7 @@ $ yarn seed
 $ yarn dev
 ```
 
-<p align="center">
+<p>
   <a href="https://insomnia.rest/run/?label=https://github.com/thainamonteiro/BeTheHero/blob/master/Insomnia_all.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
