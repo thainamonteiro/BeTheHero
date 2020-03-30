@@ -3,7 +3,7 @@
   </h1>
   
   <h4 align="center"> 
-	 :rocket:
+	 Connecting people to help ONGs :muscle:
   </h4>
   
   <p align="center">
@@ -29,7 +29,7 @@
 
 ## :computer: Project 
 
-Be The Hero is a project that connects NGOs with people who want to help.
+Be The Hero is a project that connects ONGs with people who want to help.
 ONGs record cases / incidents in the app and people visit the app and if they are willing to help they contact the ONG by email or whatsapp to help, becoming the hero of this case. 
 
 ## :round_pushpin: How to user?
